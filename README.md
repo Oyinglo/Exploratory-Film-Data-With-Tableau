@@ -40,6 +40,8 @@ The analysis highlights the strong presence and engagement of the film industry 
 To view the Tableau report, you can download the file and open it with Tableau Desktop or Tableau Reader. The visualizations can be interacted with to explore the data in more detail.
 
 ## Files Included
+- `report.twbx`: The Tableau report file.
+- `report.pdf`: A PDF export of the report (for preview).
 - `images/Exploratory_Film_Data.jpeg`: An image preview of the report.
 
 ## Preview
