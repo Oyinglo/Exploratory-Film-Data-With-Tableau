@@ -42,7 +42,4 @@ To view the Tableau report, you can download the file and open it with Tableau D
 ## Files Included
 - `images/Exploratory_Film_Data.jpeg`: An image preview of the report.
 
-## Preview
-(images/Exploratory_Film_Data.jpeg)
-
 This dashboard provides a comprehensive look at various facets of the film industry, from social media influence to critical acclaim. Your thoughts and feedback are welcome!
