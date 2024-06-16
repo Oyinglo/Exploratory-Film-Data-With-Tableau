@@ -36,9 +36,6 @@ This section describes each part of the analysis and the visualizations included
 ## Conclusion
 The analysis highlights the strong presence and engagement of the film industry on social media, the growth in film releases, and the distribution of movie ratings. These insights can be valuable for understanding trends and making data-driven decisions in the film industry.
 
-## How to View the Report
-To view the Tableau report, you can download the file and open it with Tableau Desktop or Tableau Reader. The visualizations can be interacted with to explore the data in more detail.
-
 ## Files Included
 - `images/Exploratory_Film_Data.jpeg`: An image preview of the report.
 
